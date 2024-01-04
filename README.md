@@ -5,3 +5,5 @@ Our project consists of a supervised learning CNN model that distinguishes healt
 
 ### Authors: Arusha Patil, Ananya Siri Vasireddy, Raina Talwar Bhatia
 All authors contributed equally to the project. Arusha developed the supervised learning algorithm, Ananya the unsupervised learning algorithm, and Raina the written components outside of those sections and the evaluation of the k-means clustering algorithm. Guided backpropagation algorithm written with ChatGPT.
+
+Dataset: https://www.tensorflow.org/datasets/catalog/malaria
